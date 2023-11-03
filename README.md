@@ -1,4 +1,4 @@
-Hi 👋 My name is Eduardo Miyake
+Ola 👋 Me chamo Eduardo Miyake
 ===============================
 
 Desenvolvedor.Estudante.
@@ -6,8 +6,8 @@ Desenvolvedor.Estudante.
 
 Sou estudante de Ciência da Computação há 2 anos. Desenvolvo em JavaScript, Java e Python, possuo conhecimentos em HTML, CSS, MySQL e Bootstrap.
 
-* 🌍  I'm based in Fortaleza, Ceará
-* 🧠  I'm learning Desenvolvimento Web e Clojure
+* 🌍  Estou em Fortaleza, Ceará
+* 🧠  Estou aprendendo Desenvolvimento Web e Clojure
 
 ### Skills
 
