@@ -7,7 +7,7 @@ Desenvolvedor.Estudante.
 Sou estudante de Ciência da Computação há 2 anos. Desenvolvo em JavaScript, Java e Python, possuo conhecimentos em HTML, CSS, MySQL e Bootstrap.
 
 * 🌍  Estou em Fortaleza, Ceará
-* 🧠  Estou aprendendo Desenvolvimento Web e Clojure
+* 🧠  Estou aprendendo Desenvolvimento Web e PHP
 
 ### Skills
 
