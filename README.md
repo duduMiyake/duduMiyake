@@ -7,7 +7,7 @@ Web developer and student
 Welcome to my GitHub repository! 👋 I'm Eduardo, a passionate Computer Science student currently pursuing my degree. I have a keen interest in crafting immersive user experiences through front-end development while also making great back-end systems
 
 * 🌍  I'm based in Fortaleza, Ceara
-* 🧠  I'm learning Sass and MVC Architecture
+* 🧠  I'm learning React.js and Next.js
 * 🤝  I'm open to collaborating on interesting and fun projects
 
 ### LANGUAGES
