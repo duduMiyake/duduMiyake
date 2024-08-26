@@ -51,4 +51,6 @@ Welcome to my GitHub repository! I'm Eduardo, a Computer Science student current
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/dudumiyake" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudumiyake&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![dudumiyake's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dudumiyake&theme=vue-dark&hide_border=false)
+
+![dudumiyake's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dudumiyake&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
