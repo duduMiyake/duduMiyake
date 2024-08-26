@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer and student
 -------------------------
 
-Welcome to my GitHub repository! 👋 I'm Eduardo, a passionate Computer Science student currently pursuing my degree. I have a keen interest in crafting immersive user experiences through front-end development while also making great back-end systems
+Welcome to my GitHub repository! I'm Eduardo, a Computer Science student currently pursuing my degree. I'm passionate about crafting creative software, with a special interest in front-end development, while also building solid back-end systems.
 
-* 🌍  I'm based in Fortaleza, Ceara
+* 🌍  I'm based in Ceara, Brazil
 * 🤝  I'm open to collaborating on interesting and fun projects
 
 ### LANGUAGES
