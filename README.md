@@ -19,7 +19,7 @@ Welcome to my GitHub repository! I'm Eduardo, a Computer Science student current
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,redis,git,gitlab,ubuntu&perline=8)](https://skillicons.dev)
 
 ## Personal projects made with
-[![My Skills](https://skillicons.dev/icons?i=rails,nextjs,react,ts&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,nextjs,react&perline=8)](https://skillicons.dev)
 
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,nextjs,react,js,nodejs,py,java,php,html,css,bootstrap,tailwind&perline=10)](https://skillicons.dev)
