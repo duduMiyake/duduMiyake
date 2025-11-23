@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A Software developer</h3>
 
-- 🌱 I’m currently learning **Spring-boot**
+- 🌱 I’m currently learning **Spring-boot and AWS**
 
 - 👨‍💻 All of my projects are available at [https://eduardomiyake-portfolio.vercel.app/](https://eduardomiyake-portfolio.vercel.app/)
 
